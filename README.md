@@ -6,7 +6,7 @@ Kimlik bilgisi içeren ve modele katkı sağlamayacak sütunlar SrcAddr, DstAddr
 
 Kategorik özellikler içeren Dir, Flgs ve Sport Label Encoding yöntemiyle sayısal forma dönüştürülmüştür. 
 
-Eğitim/Test oranı: %80 / %20 dir ve bölme işlemi stratify=y parametresi ile yapılmıştır. 
+Eğitim-Test oranı %80’e %20 dir ve bölme işlemi stratify=y parametresi ile yapılmıştır. 
 
 Ölçeklendirme için MinMaxScaler kullanılmıştır. 
 
