@@ -26,4 +26,4 @@ Kayıp fonksiyonu olarak Binary Crossentropy kullanılmış, eğitim sürecinde 
 
 En yüksek val accuracy 40. epoch’ta %94,33 olarak elde edilmiştir. 
 
-AUC değeri: 0.900 olarak hesaplanmıştır.
+AUC değeri: 0.900 olarak hesaplanmıştır. 
