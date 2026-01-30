@@ -20,7 +20,7 @@ Overfitting önlenmesi için %30 oranında Dropout uygulanmış, ardından Dense
 
 Modelin çıkış katmanında ikili sınıflandırma problemi için uygun olan sigmoid aktivasyon fonksiyonu kullanılmıştır.  
 
-Model, Adam optimizasyon algoritması ile eğitilmiş olup learning rate değeri 0.001 olarak belirlenmiştir.  
+Adam optimizasyon algoritması ile eğitilmiş olup learning rate değeri 0.001 olarak belirlenmiştir.  
 
 Kayıp fonksiyonu olarak Binary Crossentropy kullanılmış, eğitim sürecinde batch size 64 ve epoch sayısı 50 olarak ayarlanmıştır. 
 
